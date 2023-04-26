@@ -1,0 +1,3 @@
+﻿  Array_2_2.cpp
+C:\PO\Arrays\Array_2_2\Array_2_2.cpp(41,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Array_2_2.vcxproj -> C:\PO\Arrays\Array_2_2\x64\Debug\Array_2_2.exe
