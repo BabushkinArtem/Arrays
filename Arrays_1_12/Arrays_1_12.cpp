@@ -41,6 +41,12 @@ void sorting_array() {
 			}
 		}
 }
+void min_max() { //usind after sorting
+	double max, min;
+	max = m[0];
+	min = m[n-1];
+	cout << "\nMinimum: " << min << " maximum: " << max << "\n";
+}
 
 int main()
 {
@@ -48,5 +54,6 @@ int main()
 	show_array();
 	sorting_array();
 	show_array();
+	min_max();
 	return 0; 
 }
