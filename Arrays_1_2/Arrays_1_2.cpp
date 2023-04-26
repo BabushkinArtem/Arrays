@@ -11,7 +11,7 @@ void set_array() {
 string tmp_array; //for stoi()
 	for (int i = 0; i <= n-1; i++) {
 		tmp_array = ("");
-		while (!regex_match(tmp_array, regex("([1-9][0-9]{1,16})|([1-9])|([0])"))) {
+		while (!regex_match(tmp_array, regex("[-]{0,1}([1-9][0-9]{1,16})|([1-9])|([0])"))) {
 			cout << "\nEnter a array element # "<<i+1<<": ";
 			getline(cin, tmp_array);
 			try {
