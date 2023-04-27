@@ -1,0 +1,5 @@
+﻿  Arrays_3_12.cpp
+C:\PO\Arrays\Arrays_3_12\Arrays_3_12.cpp(17,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\PO\Arrays\Arrays_3_12\Arrays_3_12.cpp(36,6): warning C4101: index_1: неиспользованная локальная переменная
+C:\PO\Arrays\Arrays_3_12\Arrays_3_12.cpp(36,15): warning C4101: index_2: неиспользованная локальная переменная
+  Arrays_3_12.vcxproj -> C:\PO\Arrays\Arrays_3_12\x64\Debug\Arrays_3_12.exe
