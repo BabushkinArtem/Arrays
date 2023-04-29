@@ -1,1 +1,2 @@
 C:\PO\Arrays\Arrays_3_2\x64\Debug\Arrays_3_2.exe
+C:\PO\bag\Arrays\Arrays_3_2\x64\Debug\Arrays_3_2.exe

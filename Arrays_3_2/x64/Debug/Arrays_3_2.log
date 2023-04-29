@@ -1,4 +1,4 @@
 ﻿  Arrays_3_2.cpp
-C:\PO\Arrays\Arrays_3_2\Arrays_3_2.cpp(19,43): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\PO\Arrays\Arrays_3_2\Arrays_3_2.cpp(22,38): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
-  Arrays_3_2.vcxproj -> C:\PO\Arrays\Arrays_3_2\x64\Debug\Arrays_3_2.exe
+C:\PO\bag\Arrays\Arrays_3_2\Arrays_3_2.cpp(19,43): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\PO\bag\Arrays\Arrays_3_2\Arrays_3_2.cpp(22,38): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Arrays_3_2.vcxproj -> C:\PO\bag\Arrays\Arrays_3_2\x64\Debug\Arrays_3_2.exe
