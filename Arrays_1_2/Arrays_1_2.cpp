@@ -32,12 +32,10 @@ double count_av() {
 	return av;
 }
 
-void replace_array() {
-	double rep_array[n];
-	copy_n(m,n,rep_array);
-	rep_array[4] = count_av();
-	copy_n(rep_array, n, m);
-}
+
+	
+	
+
 
 void show_array() {
 	cout << "\n\nReplaced array:\n";
@@ -49,7 +47,7 @@ void show_array() {
 int main()
 {
 	set_array();
-	replace_array();
+	m[4] = count_av(); //replaces the 5th element of array with the average
 	show_array();
 	return 0;
 
